@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Voce sabia que este site esta completamente online? <br></br> 
+    return <h1>Ola mae, estou com saudades. Me liga :D <br></br> 
     </h1>
 }
 
